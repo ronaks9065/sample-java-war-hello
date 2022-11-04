@@ -4,7 +4,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1><font color="red">Congratulations. Automation</font></h1>
+<h1>Congratulations. Automation</h1>
 <img src="boxfuse.png">
 
 <h2>Ronak You have successfully launched your Instance with Automation</h2>
