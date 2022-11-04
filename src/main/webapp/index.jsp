@@ -6,7 +6,7 @@
 <h1>Congratulations. Automation Done.</h1>
 <img src="boxfuse.png">
 
-<h2>Ronak You have successfully launched your Instance!</h2>
+<h2>Ronak You have successfully launched your Instance with Automation</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
