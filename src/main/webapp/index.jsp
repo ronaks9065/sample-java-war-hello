@@ -1,7 +1,7 @@
 <!DOCTYPE> 
 <html>
 <head>
-    <title>Sample App: success!</title>
+    <title>Sample App: success</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations. Automation.</h1>
