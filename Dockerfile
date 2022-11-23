@@ -1,9 +1,6 @@
 FROM centos
 RUN yum -y update
-RUN yum -y remove java
-RUN yum install -y \
-       java-1.8.0-openjdk \
-       java-1.8.0-openjdk-devel
+RUN yum install java -y
 RUN mkdir /opt/tomcat/
 WORKDIR /opt/tomcat
 RUN curl -O https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.84/src/apache-tomcat-8.5.84-src.tar.gz
