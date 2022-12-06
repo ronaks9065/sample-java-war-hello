@@ -7,7 +7,7 @@ phases:
       - mvn --version
   build:
     commands:
-      - mvn clean install
+      - sudo mvn clean install
       - echo Build Done
 artifacts:
   files:
