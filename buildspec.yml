@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - java --version
+      - mvn --version
+  build:
+    commands:
+      - mvn clean install
+      - echo Build Done
+artifacts:
+  files:
+    - '**/*'
