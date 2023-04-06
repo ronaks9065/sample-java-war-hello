@@ -1,13 +1,13 @@
 <!DOCTYPE> 
 <html>
 <head>
-    <title>Sample App Java app new</title>
+    <title>Sample App Java</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations. Automation.</h1>
 <img src="boxfuse.png">
 
-<h2>PAVAN You have successfully launched your Instance with Automation</h2>
+<h2>Parth You have successfully launched your Instance with Automation</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
