@@ -1,7 +1,7 @@
 <!DOCTYPE> 
 <html>
 <head>
-    <title>Sample App Java app new</title>
+    <title>Sample App Java app</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations. Automation.</h1>
